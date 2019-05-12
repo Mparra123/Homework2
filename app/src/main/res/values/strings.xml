@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Tarea#2</string>
+    <string name="btn_off">Turn OFF</string>
+    <string name="btn_on">Turn ON</string>
+    <string name="txt_history">will be the history</string>
 </resources>
